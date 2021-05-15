@@ -1,4 +1,4 @@
 # Dark & Light Mode User Card Using JavaScript
 Dark &amp; Light Mode User Card Using JavaScript
 
-![Demo](https://github.com/abdanzamzam/search-box-google-using-HTML-CSS-JavaScript/blob/main/video-googlebox.gif)
+![Demo](https://github.com/abdanzamzam/Dark-Light-Mode-User-Card-Using-JavaScript/blob/main/dark%20light%20card.jpg)
